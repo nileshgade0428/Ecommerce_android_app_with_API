@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Placeholder icon (customize as needed) -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M24,5.3C12.1,5.3,3.7,13.7,3.7,25.6s8.4,20.3,20.3,20.3s20.3,-8.4,20.3,-20.3S35.9,5.3,24,5.3zm0,36.9c-9.6,0,-17.5,-7.8,-17.5,-17.5s7.8,-17.5,17.5,-17.5s17.5,7.8,17.5,17.5S33.6,42.2,24,42.2zm0,-28c-4.9,0,-9,4,-9,9s4,9,9,9s9,-4,9,-9s-4.1,-9,-9,-9zm-2.4,13.5l-1.6,1.5l4.5,4.5l-4.5,4.5l1.6,1.5l6,-6z" />
+
+</vector>
